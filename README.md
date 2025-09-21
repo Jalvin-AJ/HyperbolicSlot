@@ -1,2 +1,2 @@
 # HyperbolicSlot
-The “Hyperbolic Slot” is a mathematics working model that visually demonstrates the geometric property of a hyperbola. A straight line can pass through a slot shaped as a half hyperbola without making contact, highlighting the mathematical principles of curves and symmetry.
+The “Hyperbolic Slot” is a mathematics working model that visually demonstrates the geometric property of a hyperbola. A straight line can pass through a slot shaped as a half hyperbola without making contact, highlighting the mathematical principles of curves and symmetry. The model was showcased at higher secondary exhibitions, earning recognition at both Sub-District and District levels.
